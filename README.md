@@ -1,96 +1,95 @@
-<h1 align="center">Hamza Maqbool</h1>
+<h1 align="center">Hi 👋, I'm Hamza Maqbool</h1>
+<h3 align="center">A Full Stack Engineer who builds TypeScript products end to end: web, mobile and AI.</h3>
 
 <p align="center">
-  <b>Full Stack Engineer</b> · TypeScript · Next.js · NestJS · React Native · AI
-  <br/>
-  Lahore, Pakistan
+  <a href="https://www.hamzamaqbool.dev/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Next.js+%2B+NestJS+%2B+PostgreSQL;React+Native+apps+with+Expo;RAG%2C+voice+and+streaming+AI+chat;Data+pipelines+that+reconcile+to+the+cent" alt="What I build" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.hamzamaqbool.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-hamzamaqbool.dev-111827?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hamza-maqbool/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-hamza--maqbool-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hamzaaliics@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamzaaliics@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<img align="right" alt="Coding" height="280" src="https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp" />
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=hamza-mqbl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></p>
+
+- 🔭 I'm working on **admin platforms, data pipelines and AI features** with Next.js, NestJS and PostgreSQL
+- 📱 I ship **cross-platform mobile apps** with React Native, Expo and RevenueCat
+- 🤖 I build **AI features**: RAG with LangChain and Pinecone, streaming chat and VAPI voice calls
+- 💬 Ask me about **Next.js, NestJS, React Native and RAG**
+- 🌐 Portfolio: **[hamzamaqbool.dev](https://www.hamzamaqbool.dev/)**
+- 📫 How to reach me: **[hamzaaliics@gmail.com](mailto:hamzaaliics@gmail.com)**
+
+<br clear="right"/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamza-maqbool/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.hamzamaqbool.dev/"><img align="center" src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hamzaaliics@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="ts" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="js" width="40" height="40"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/></a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" alt="prisma" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="vercel" width="40" height="40"/></a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=supabase" alt="supabase" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" width="40" height="40"/></a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vitest" alt="vitest" width="40" height="40"/></a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/></a>
+</p>
 
-### About me
-
-I build TypeScript products end to end: Next.js front ends, NestJS and PostgreSQL back ends, React Native apps, and AI features such as RAG, voice and streaming chat. I like the unglamorous parts that make software trustworthy, like idempotent data pipelines, auth and webhook security, and numbers that reconcile to the cent.
-
-- 🧩 **Admin platform:** 17+ modules on NestJS, Prisma and PostgreSQL, with Clerk auth, BullMQ jobs, Socket.IO moderation and an OWASP-mapped CI security gate.
-- 📊 **Reporting pipeline:** an hourly GraphQL → PostgreSQL → Metabase sync with rate-limit pacing and rotating OAuth tokens. It reconciles about $3.5M of revenue to the cent.
-- 📱 **Mobile:** cross-platform Expo apps with RevenueCat subscriptions and EAS CI/CD.
-- 🤖 **AI:** RAG over PDF and DOCX files with LangChain, OpenAI and Pinecone, with tokens streamed over Socket.IO and voice calls through VAPI.
-
-### Live client work
+<h3 align="left">Featured work:</h3>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>☀️ SN Solar</h4>
-      <p>Bilingual English/Urdu (RTL) lead-generation site for a solar installer. It has 13 page types, a Sanity Studio built for a non-technical owner, quote and repair-ticket forms using Server Actions, and full technical SEO.</p>
-      <p><b>Lighthouse (mobile):</b> 92 · 100 · 100 · 100</p>
-      <p>
-        <img alt="Next.js" src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs">
-        <img alt="Sanity" src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white">
-        <img alt="next-intl" src="https://img.shields.io/badge/next--intl-RTL-6b7280?style=flat-square">
-        <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-      </p>
-      <a href="https://www.snsolarpk.com"><b>Visit snsolarpk.com →</b></a>
+      <h4>☀️ <a href="https://www.snsolarpk.com">SN Solar</a></h4>
+      Bilingual English/Urdu (RTL) lead-generation site for a solar installer, built with Next.js 16, Sanity CMS and next-intl.<br/>
+      <sub><b>Lighthouse (mobile):</b> 92 · 100 · 100 · 100</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🏡 Paradise Estate</h4>
-      <p>Real-estate website with filterable listings, area guides, a gallery of closed deals, lead and WhatsApp capture, and JSON-LD for search. Content is edited in Sanity and shown live on the site.</p>
-      <p>
-        <img alt="Next.js" src="https://img.shields.io/badge/Next.js_16-000?style=flat-square&logo=nextdotjs">
-        <img alt="Sanity" src="https://img.shields.io/badge/Sanity_Live-F03E2F?style=flat-square&logo=sanity&logoColor=white">
-        <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-111?style=flat-square&logo=shadcnui">
-        <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel">
-      </p>
-      <a href="https://paradise-neon.vercel.app"><b>Visit the site →</b></a>
+      <h4>🏡 <a href="https://paradise-neon.vercel.app">Paradise Estate</a></h4>
+      Real-estate website with filterable listings, area guides, lead capture and live Sanity content.<br/>
+      <sub>Next.js 16 · Sanity Live · shadcn/ui</sub>
     </td>
   </tr>
-</table>
-
-### Open-source projects
-
-<table>
   <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/hamza-mqbl/React-Native-Starter-kit">📱 React Native Starter Kit</a></h4>
-      <p>Production-ready Expo 54 boilerplate with Clerk auth (Google, Apple, email), a NativeWind design system, Zustand, TanStack Query, React Hook Form + Zod, and dark mode.</p>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/hamza-mqbl/React-Native-Starter-kit">React Native Starter Kit</a></h4>
+      Production-ready Expo 54 boilerplate with Clerk auth, a NativeWind design system, Zustand and TanStack Query.<br/>
       <sub>Expo · TypeScript · NativeWind · Clerk</sub>
     </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/hamza-mqbl/e-shop-multivendor">🛒 Multivendor E-Shop</a></h4>
-      <p>Full MERN marketplace with seller dashboards, Stripe and PayPal checkout, real-time chat and notifications over Socket.IO, and Cloudinary uploads.</p>
-      <sub>React · Redux · Express · MongoDB · Socket.IO</sub><br/>
-      <a href="https://e-shop-multivendor.onrender.com/">Live demo →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/hamza-mqbl/quiz-app">🧠 ML Quiz System</a></h4>
-      <p>Final-year project: teachers create quizzes by hand or with AI, and students take them with cheating prevention and get personalized AI feedback.</p>
-      <sub>Next.js · TypeScript · Redux · Express · MongoDB</sub><br/>
-      <a href="https://quiz-app-liart-one.vercel.app">Live demo →</a>
+    <td width="50%" valign="top">
+      <h4>🛒 <a href="https://github.com/hamza-mqbl/e-shop-multivendor">Multivendor E-Shop</a></h4>
+      MERN marketplace with seller dashboards, Stripe and PayPal checkout, and real-time chat over Socket.IO.<br/>
+      <sub>React · Redux · Express · MongoDB · <a href="https://e-shop-multivendor.onrender.com/">Live demo</a></sub>
     </td>
   </tr>
 </table>
 
-### Tech stack
-
-<p>
-  <img alt="Languages and frontend" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux&perline=12">
-  <br/>
-  <img alt="Backend and data" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma,postgres,mongodb,redis&perline=12">
-  <br/>
-  <img alt="Cloud and tooling" src="https://skillicons.dev/icons?i=aws,vercel,supabase,firebase,githubactions,vitest,jest&perline=12">
-</p>
-
-**Also:** React Native (Expo) · TanStack Query · shadcn/ui · Socket.IO · BullMQ · Clerk · Stripe · RevenueCat · Sanity · Metabase · OpenAI · LangChain · Pinecone · VAPI
-
----
+<h3 align="left">GitHub stats:</h3>
 
 <p align="center">
-  Open to full-stack and product-engineering roles. The fastest way to reach me is <a href="mailto:hamzaaliics@gmail.com">email</a> or <a href="https://www.linkedin.com/in/hamza-maqbool/">LinkedIn</a>.
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamza-mqbl&show_icons=true&locale=en&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-mqbl&locale=en&layout=compact&hide_border=true&title_color=0e75b6" alt="Top languages" />
 </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hamza-mqbl&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub streak" />
+</p>
+
+<p align="center"><i>Let's connect and build something great together!</i></p>
